@@ -1,0 +1,101 @@
+Customer_ID;Name;Street;City;State;Zipcode;Email;Phone;Order_History
+1;Victoria Mason;96066 Shawn Extensions Suite 888;Los Angeles;FM;91735;mark19@example.com;+1 685-734-9137;2 orders
+2;Kevin Malone;3045 Edward Forges;Los Angeles;RI;40885;stephanie25@example.com;+1 903-535-9487;19 orders
+3;Brandi Gonzalez;79549 Rachel Junction Suite 233;Charlotte;CO;08124;karlsmith@example.org;+1 934-423-5896;6 orders
+4;Jennifer Williams;6944 Bryant Point;Dallas;FM;36177;navila@example.org;+1 578-392-1902;7 orders
+5;Tiffany Hernandez;12787 Woodard Terrace;Fort Worth;WA;41914;justindunlap@example.net;+1 446-597-7044;4 orders
+6;Christopher Schmitt;12250 Brittany Forge Suite 763;Chicago;SC;03502;allenjoyce@example.com;+1 679-956-1055;15 orders
+7;Kevin Smith MD;36799 Daniels Park Apt. 574;Houston;NM;85977;johnsonnicholas@example.net;+1 674-262-9627;16 orders
+8;Morgan Welch;176 Harmon Points Apt. 988;San Antonio;MT;43872;cody44@example.org;+1 406-246-4877;18 orders
+9;Sherry Wall;94513 Williams Roads;Columbus;CO;67894;nicholasshaw@example.com;+1 905-974-5585;17 orders
+10;Shane Ross;277 Ashley Way Apt. 785;Los Angeles;VT;65712;qwade@example.org;+1 785-854-5027;12 orders
+11;Barbara Stone;54038 Daniel Street;Jacksonville;SC;84088;joneslauren@example.net;+1 587-973-4632;20 orders
+12;Bailey Obrien;04101 Williams Knoll Suite 146;Austin;DE;44151;benjaminpham@example.com;+1 503-642-1459;16 orders
+13;Rhonda Hooper;644 Justin Freeway Apt. 787;Dallas;MT;04984;lambertangela@example.org;+1 217-900-7016;7 orders
+14;Anthony Gilbert;0189 Bryan Orchard;Chicago;MP;75952;lmalone@example.org;+1 918-308-8439;6 orders
+15;Sierra Martinez;8380 Thomas Island;Philadelphia;ME;71059;koneal@example.com;+1 675-936-1485;16 orders
+16;Matthew Flores;476 Justin Stream Suite 649;Chicago;MS;49092;jessica52@example.org;+1 471-855-7683;5 orders
+17;Jennifer Johnson;31031 Torres Plains Apt. 631;Los Angeles;KY;20117;gonzalesgregory@example.org;+1 382-653-4368;17 orders
+18;Kenneth Hudson;0922 Johnson Alley Suite 809;San Jose;MN;84693;wli@example.com;+1 612-912-5100;10 orders
+19;Emily Moore;243 Castillo Rapids;Jacksonville;FM;47712;tammy28@example.com;+1 506-644-4944;13 orders
+20;Jodi Mendoza;55942 Ross Parkway;San Antonio;WV;83348;smiththeresa@example.net;+1 544-329-8724;2 orders
+21;Troy Le;06243 Mills Knoll Apt. 832;Fort Worth;MT;73677;gpowers@example.org;+1 544-344-1372;9 orders
+22;Patricia Mckay;5704 Watkins Causeway;San Diego;WY;92845;erinhowell@example.org;+1 827-647-9878;8 orders
+23;Timothy Oliver;965 Castro Harbor;Charlotte;PA;47686;amycross@example.com;+1 643-840-5579;3 orders
+24;Natalie Lara;713 Denise Mission Apt. 350;Fort Worth;DE;22725;kjohnson@example.net;+1 814-968-6791;2 orders
+25;Joel Taylor;195 Perez Plains Apt. 844;Fort Worth;MA;34544;qanderson@example.org;+1 900-625-9526;3 orders
+26;Mikayla Chen;46074 Lisa Light Apt. 665;Austin;MS;77809;eanderson@example.net;+1 499-917-4229;10 orders
+27;Heather Green;6759 Patterson Unions Suite 203;Los Angeles;WV;35661;emily27@example.net;+1 932-742-9199;16 orders
+28;Jennifer Garrison;05018 Baker Court;Jacksonville;GA;71413;kathy33@example.org;+1 987-537-4439;5 orders
+29;Benjamin Thomas;5996 Dana Forest Apt. 544;San Antonio;OH;75038;scott71@example.org;+1 952-399-4313;10 orders
+30;Jacqueline Salazar;4206 Cox Creek Apt. 351;Fort Worth;CO;87928;tinawest@example.com;+1 311-763-2496;1 orders
+31;David Mcbride;904 Miller Shoal;San Diego;SC;23665;tracyscott@example.org;+1 813-716-9469;2 orders
+32;Kathryn Hernandez;74325 Hill Brooks Suite 518;New York;LA;28905;zbarrett@example.net;+1 908-443-4310;11 orders
+33;Mr. Robert Lewis MD;1852 Robertson Dam;Los Angeles;MP;64561;clarkbryan@example.com;+1 894-332-5371;11 orders
+34;Craig Daniels;097 Daniel Mountain Apt. 363;Los Angeles;CA;04534;nealpreston@example.net;+1 376-471-4420;8 orders
+35;Bernard Reyes;5884 James Forge Apt. 923;San Antonio;IA;99037;scott93@example.net;+1 874-751-5045;13 orders
+36;Zachary Smith;7414 Melissa Forest Apt. 670;New York;IL;83001;hlucas@example.net;+1 534-591-6535;15 orders
+37;Angela Hernandez;7814 Roger Lake;Dallas;MD;43596;mjones@example.net;+1 957-571-6445;17 orders
+38;Vanessa Franklin;890 Chavez Run Apt. 235;Fort Worth;NC;95451;hmejia@example.net;+1 268-303-1531;3 orders
+39;Laura Perez;82220 Jaime Corners Apt. 958;San Jose;SD;18108;jamesjenkins@example.net;+1 459-536-4988;4 orders
+40;Kevin Williams;34365 Justin Estates;Jacksonville;KS;00701;cshields@example.com;+1 974-676-7748;1 orders
+41;Kimberly Mercado;6782 Zimmerman Parkway;Dallas;GU;27027;kristen34@example.net;+1 890-381-8597;15 orders
+42;Lance Henry;5242 Johnson Mission;Chicago;MS;46194;jonathanparks@example.com;+1 362-304-9547;11 orders
+43;Mary Duncan;819 Dennis Cliffs;Los Angeles;GU;24562;kcarroll@example.net;+1 998-241-2913;14 orders
+44;Richard Powers;0348 Gibbs Ridges Apt. 351;Jacksonville;LA;97338;littlecrystal@example.net;+1 529-206-8842;1 orders
+45;Casey Richardson;613 Anthony Crossing;San Antonio;CO;64513;abigail36@example.com;+1 552-481-5870;18 orders
+46;Ian Lee;354 Peterson Summit Apt. 960;Austin;UT;23405;christopher50@example.net;+1 825-561-4329;2 orders
+47;Jonathan Alvarez;9266 Hawkins Dam Suite 503;San Diego;NH;81906;jill74@example.com;+1 214-814-2603;12 orders
+48;Heather Thomas;06944 Christopher Isle;San Antonio;OR;69833;evandavis@example.com;+1 606-393-8237;2 orders
+49;Allison Brown;5139 Wright Plaza;Austin;MH;72145;nrivera@example.org;+1 903-877-3022;2 orders
+50;Vincent Pacheco;47119 James Tunnel;Philadelphia;UT;53931;jonathangarcia@example.com;+1 580-754-1987;20 orders
+51;Stacey Henderson;26088 Aaron Fork Apt. 344;Jacksonville;NJ;40855;randy60@example.org;+1 771-553-6479;4 orders
+52;Anna Scott;2120 Avila Plains Apt. 986;Austin;MN;10201;phyllisallen@example.com;+1 593-710-7412;1 orders
+53;George Khan;0322 Munoz Pike Apt. 333;Fort Worth;NC;57595;diaznicole@example.net;+1 454-327-1882;11 orders
+54;Valerie Allen;63906 Gloria Road;Austin;ME;80442;gailsantos@example.net;+1 542-817-3211;8 orders
+55;Diana Fox;924 Richardson Mount Apt. 443;Los Angeles;IN;86347;olsonjacob@example.org;+1 724-527-9736;20 orders
+56;Jerome Rivera DVM;837 Kyle Overpass;Chicago;FL;97310;steven70@example.net;+1 905-731-4445;15 orders
+57;Wendy Decker;645 Manning Port Suite 678;San Diego;NH;64139;seangreen@example.org;+1 588-352-4375;4 orders
+58;Dustin Bartlett;5256 Sanders Isle;Los Angeles;PA;97507;joshua89@example.net;+1 899-365-7478;8 orders
+59;David Reilly;691 Lawrence Corners Apt. 573;San Jose;RI;85158;millersamantha@example.org;+1 648-578-4340;3 orders
+60;Danny Ray;952 Booth Ridge Apt. 592;Los Angeles;PW;62273;karenbartlett@example.com;+1 661-706-1859;12 orders
+61;Brandon Johnson;4105 Jonathan Expressway Apt. 753;Jacksonville;SC;56603;qcollins@example.net;+1 703-563-7752;4 orders
+62;John Jacobs;93435 Brian Rapids;Columbus;MO;66715;andrew40@example.org;+1 203-977-7859;9 orders
+63;Kelly Price;041 Suzanne Prairie Suite 149;Chicago;AK;50174;brian35@example.net;+1 292-361-4832;15 orders
+64;Cynthia Cole;399 Adams Motorway;Austin;FM;28660;amandajohnston@example.net;+1 625-425-3358;15 orders
+65;Patricia Walton;55748 Torres Glens Apt. 100;Dallas;NC;36180;timothyburgess@example.org;+1 550-293-9394;6 orders
+66;Steven Wood;5689 Jonathan Parkway;Dallas;NC;11819;ryanwalker@example.com;+1 235-724-9194;3 orders
+67;Paul Steele;2613 Michael Spur Suite 372;Philadelphia;PW;13278;hwall@example.org;+1 573-727-7360;12 orders
+68;Sarah Webb;429 Sanders Oval Apt. 806;Dallas;OK;69548;joshuaorr@example.net;+1 749-636-1894;7 orders
+69;Courtney Martin;9975 John Island Suite 450;Houston;GA;51417;tyler17@example.net;+1 979-233-9603;6 orders
+70;Heather Gonzalez;3941 Julie Inlet;Los Angeles;AK;28723;martinryan@example.net;+1 492-775-5493;5 orders
+71;Scott Freeman;46445 Amanda Locks;Austin;SC;87255;bishoppaul@example.net;+1 474-404-3448;16 orders
+72;Curtis Wolfe;33809 Dalton Square;San Antonio;NH;74831;jesuspatel@example.com;+1 942-566-8560;19 orders
+73;Christine Fisher;726 Harris Stravenue Apt. 616;Chicago;MI;14993;teresa27@example.org;+1 486-498-6086;13 orders
+74;Kevin Smith;492 Gary Crossing;Houston;MA;81044;tpowell@example.org;+1 540-275-2853;6 orders
+75;John Copeland;6545 Ashley Plaza Suite 358;Chicago;GA;57696;xroberts@example.org;+1 245-474-1294;4 orders
+76;Michael Pineda;9328 Kenneth Roads;Philadelphia;ME;42785;tatemichael@example.org;+1 482-403-5390;11 orders
+77;Katherine Reilly;7431 Simon Meadow;San Diego;ND;22579;lejose@example.org;+1 422-294-7680;20 orders
+78;Thomas Lester;7853 Christopher Course;Austin;NC;33729;annagiles@example.org;+1 473-359-8265;19 orders
+79;Stephanie Shaw;7445 William Rapid;San Diego;AR;69467;christopherfrancis@example.com;+1 703-968-5311;7 orders
+80;Eric Vasquez;383 Danielle Motorway Apt. 489;San Antonio;NJ;92927;stephaniemiles@example.org;+1 377-950-1305;8 orders
+81;Jennifer Parker;85715 Sarah Lock Suite 077;Houston;IN;20791;craighuffman@example.com;+1 632-957-2303;10 orders
+82;Timothy Harvey;605 Mendoza Mission;New York;MT;11780;dyerrachel@example.com;+1 824-686-5180;4 orders
+83;Carlos Frye;898 John Turnpike Apt. 746;Philadelphia;HI;94496;tevans@example.net;+1 250-230-4427;1 orders
+84;Brenda Cole;35102 Lee Forges Apt. 036;Fort Worth;WA;00818;cynthia36@example.com;+1 458-834-4998;1 orders
+85;Raymond James;15524 Justin Fords Apt. 573;Philadelphia;CO;47248;jdean@example.net;+1 594-700-7849;5 orders
+86;Timothy Gill;83676 Green Vista;San Antonio;OK;47593;dlong@example.org;+1 499-479-3613;5 orders
+87;Justin Hill;772 Mark Oval;Charlotte;UT;85993;julie97@example.net;+1 334-482-6356;10 orders
+88;Heather Ellis;11389 Eileen Flat;Philadelphia;ID;37352;zgardner@example.com;+1 520-615-6254;9 orders
+89;Dalton Martinez;18087 Reginald Mills;Charlotte;GA;05030;kristina26@example.com;+1 413-628-3930;12 orders
+90;Paul Reed;07934 Potts Causeway Suite 437;Chicago;RI;44379;whitakerlindsey@example.com;+1 236-995-1256;5 orders
+91;Carla Hansen;772 Thomas Throughway;Phoenix;IN;89975;lwilson@example.net;+1 240-326-9703;18 orders
+92;Wayne Smith;598 Fleming Heights Suite 239;San Antonio;ID;87458;paulgreen@example.com;+1 437-494-2764;20 orders
+93;Mariah James;178 Fernando Estate;Jacksonville;MN;72964;pkidd@example.net;+1 348-480-3068;6 orders
+94;Angela Jordan;026 Evans Cove;Austin;TX;18883;allenrebecca@example.org;+1 315-820-2966;7 orders
+95;Anthony Mueller;76772 Stephanie Springs Suite 402;Phoenix;MD;36436;shieldsdawn@example.com;+1 204-985-8094;19 orders
+96;Sandy Flores;6548 Grant Lake Apt. 819;Dallas;IA;49970;kristina51@example.net;+1 985-878-2726;18 orders
+97;Alexander Dunlap;44449 Darlene Valleys;Dallas;TN;96568;amandawilson@example.org;+1 999-486-5101;15 orders
+98;Roberto Davis;8775 Scott Views;Los Angeles;KS;31908;robertconway@example.org;+1 870-674-7832;12 orders
+99;Dr. Luke Joseph Jr.;42050 Sharon Summit Suite 258;Philadelphia;AK;63187;uschultz@example.com;+1 731-717-9654;12 orders
+100;Calvin Munoz;90798 Lisa Parks;Houston;IN;81760;crystal38@example.org;+1 283-874-9281;11 orders
