@@ -1,0 +1,101 @@
+﻿Customer_ID,Name,Street,City,State,Zipcode,Email,Phone,Order_History
+1,Justin Vasquez,6751 Henry Hollow,Fort Worth,SD,93035,rwright@example.net,+1 205-763-1533,17 orders
+2,Chad Lee,3732 Allen Highway Suite 148,Philadelphia,TX,56707,prichards@example.com,+1 212-215-9723,10 orders
+3,Kelly Smith,653 Katie Isle Suite 427,San Jose,FL,37075,mstewart@example.org,+1 648-656-3151,17 orders
+4,Kristine Miller,786 Ponce Crossing Suite 351,Fort Worth,NE,97589,hannahcox@example.net,+1 448-601-5721,20 orders
+5,Nicole Fleming,104 Ronald Green,Charlotte,OH,50733,rodney75@example.net,+1 729-603-9511,3 orders
+6,Nicholas Powell,8829 Sutton Mission Apt. 951,Philadelphia,VI,61386,wendy03@example.com,+1 317-793-8040,6 orders
+7,Melissa Thomas,25586 Taylor Track,Philadelphia,LA,49760,john07@example.com,+1 695-628-5749,11 orders
+8,Anthony Smith,78209 Santos Forks,Los Angeles,FL,46753,merrittvalerie@example.net,+1 474-809-8761,6 orders
+9,Alex Davidson,886 Alicia Green,Fort Worth,NJ,88963,martinezlisa@example.com,+1 308-352-4476,18 orders
+10,Stacey Jones,09943 Willis Squares Apt. 398,New York,IA,06628,daviscasey@example.net,+1 337-703-9250,19 orders
+11,Cheyenne Adams,914 Fleming Ports Apt. 295,San Jose,CA,18760,rodriguezrichard@example.org,+1 571-318-3431,8 orders
+12,George Franklin,81069 Martin Harbor,Austin,ND,09556,thomaschristian@example.net,+1 222-925-1628,1 orders
+13,Jessica Cox,14394 Christopher Burg Suite 690,San Diego,NJ,81060,johnjackson@example.com,+1 513-523-3767,15 orders
+14,Ashley Santiago,33307 Harris Inlet Apt. 191,Houston,CO,04695,krystal41@example.com,+1 764-826-7711,20 orders
+15,Nicholas Arnold,8156 Leon Motorway,Fort Worth,NV,18888,pricechristina@example.net,+1 774-461-1242,11 orders
+16,Julie Lee,854 Greg Trail,San Antonio,CO,38031,rwashington@example.net,+1 209-552-4263,8 orders
+17,Devin Vega,3699 Terry Neck Apt. 215,Dallas,NM,08499,tblair@example.net,+1 673-478-5381,6 orders
+18,Andrea Smith,8473 Marisa Prairie Suite 681,Los Angeles,GA,01778,vshelton@example.net,+1 353-509-4671,1 orders
+19,Robert Rosario,612 Klein Prairie Apt. 914,San Diego,VI,73044,carterjason@example.org,+1 742-314-9006,5 orders
+20,Steven Smith,37395 Wood Rest,San Antonio,MA,50689,jamesday@example.org,+1 692-374-2971,2 orders
+21,Erin Ramirez,716 Miller Cape,San Jose,RI,62501,mcphersonsteven@example.org,+1 543-639-3264,18 orders
+22,Dr. Phillip Estrada,46977 Rebecca Burgs Apt. 882,Chicago,OH,42086,eileen88@example.org,+1 265-716-7442,10 orders
+23,Sara Garrison,8739 Curtis Vista,San Antonio,MN,06887,hsanchez@example.org,+1 311-779-7540,20 orders
+24,Mitchell Taylor,7065 Carter Green,Los Angeles,TX,38994,amandamcintyre@example.org,+1 591-288-9439,2 orders
+25,Phillip Stevens,759 Gina Streets,Columbus,NE,21718,fevans@example.net,+1 643-835-1324,10 orders
+26,Erika Anderson,02684 Simmons Forges,Columbus,VA,45684,gateskimberly@example.com,+1 755-687-2723,14 orders
+27,Cody Elliott,447 Maria Stream Apt. 599,Austin,UT,28490,ukeller@example.net,+1 649-665-5385,4 orders
+28,Brendan Olson,3355 Adams Lock,Chicago,FL,09674,elizabeth01@example.org,+1 331-627-2447,8 orders
+29,Jacob Martin,68090 Green Locks,New York,MI,08090,woodssergio@example.org,+1 502-529-3288,8 orders
+30,Madison Miller,5005 Taylor Pike Suite 719,Fort Worth,FM,41959,daniel59@example.com,+1 960-867-1872,16 orders
+31,Frank Garcia,9166 Shaw Shoal,Los Angeles,VI,01677,stravis@example.com,+1 871-597-5212,10 orders
+32,Andrew Baker,45086 Stacey Ridge,Philadelphia,OR,04326,leahmendoza@example.net,+1 976-577-4413,15 orders
+33,Joan Fox,643 Mendoza Crest Apt. 871,Columbus,FM,97737,janeelliott@example.com,+1 541-492-6960,11 orders
+34,Meagan Stewart,0290 Patterson Rue Apt. 964,San Jose,FL,69436,andrea88@example.org,+1 646-943-6720,5 orders
+35,Debbie Johnson,122 Melissa Grove Suite 865,Fort Worth,UT,04203,tylerdiaz@example.com,+1 237-811-6896,1 orders
+36,Phillip Larson,6230 Boyle Courts Suite 590,Chicago,TX,48587,muelleralbert@example.org,+1 224-217-7731,2 orders
+37,Adriana Valdez,909 Erin Creek,Charlotte,SD,46876,katrina38@example.org,+1 637-377-2192,14 orders
+38,Daniel Robertson,18885 Stephen Plains Suite 060,Chicago,SC,19468,adamsmary@example.com,+1 767-207-5894,1 orders
+39,Crystal Garcia,70126 Scott Mountains Apt. 328,Los Angeles,MO,21664,edwardsevelyn@example.org,+1 350-751-5598,2 orders
+40,Donna Bass,0257 Montgomery Flats,Philadelphia,PW,31379,alisonarroyo@example.org,+1 260-223-5948,18 orders
+41,Pam Walsh,64198 Anne Brook,Austin,PA,35224,mcgrathmichael@example.net,+1 895-544-5910,20 orders
+42,Dr. Stephanie Clark,350 Guzman Vista,Columbus,AZ,50607,james87@example.net,+1 308-613-4279,13 orders
+43,Mary Mercado,7416 Erin Overpass Suite 357,Columbus,LA,47345,sharplisa@example.org,+1 213-720-4292,16 orders
+44,Amy Garza,2639 Smith Forks Suite 458,Dallas,IN,39596,pwolf@example.com,+1 507-321-8293,15 orders
+45,Leslie Miller,316 Jennifer Pines,Columbus,CO,15159,jose27@example.net,+1 541-798-5046,10 orders
+46,Joshua Robertson,7077 Nicholas Prairie Apt. 962,Los Angeles,MO,71041,amy90@example.com,+1 920-358-5074,5 orders
+47,David Jacobs,1274 Martin Ways Suite 540,Philadelphia,OH,23182,kristopher67@example.net,+1 628-396-5014,6 orders
+48,Ryan Hoffman,204 Hobbs Hills,Charlotte,ME,39834,mariahsmith@example.org,+1 387-751-9941,18 orders
+49,Jonathan Foster,6162 Andrea Club,San Antonio,AR,30284,andrea25@example.org,+1 429-414-6149,9 orders
+50,Michael Jackson,36267 Wilson Turnpike,Los Angeles,HI,23458,josephcochran@example.net,+1 486-369-9067,17 orders
+51,Tanya Martin,8230 Brian Green Apt. 526,Chicago,KS,35666,stephaniehoward@example.com,+1 277-392-5989,13 orders
+52,Karen Williams,56430 James Dam,Philadelphia,NJ,14434,shawterri@example.com,+1 657-671-8674,9 orders
+53,Donna Hansen,92922 Price Neck Suite 516,Jacksonville,GA,82009,shelby49@example.net,+1 758-228-3612,15 orders
+54,Courtney Robertson,0957 Johnson Point Suite 350,Phoenix,SC,65462,lbaker@example.org,+1 652-245-6777,4 orders
+55,Nicholas Johnson,90904 Brett Isle,Charlotte,IL,48316,turnercarrie@example.com,+1 374-685-4414,13 orders
+56,Amanda Dyer,98544 Stephanie Valley,Jacksonville,PR,25343,kevin05@example.org,+1 815-552-1122,12 orders
+57,Jordan Stephens Jr.,37524 Jenny Club Apt. 777,San Diego,HI,24424,millervincent@example.net,+1 414-529-9062,4 orders
+58,David Henderson,846 Cooper Cliffs,Los Angeles,MD,57889,amartinez@example.org,+1 241-661-8329,2 orders
+59,George Cook,3898 Kirby Fields Apt. 992,Chicago,SD,47025,annahoffman@example.net,+1 817-303-2190,17 orders
+60,Rebecca Kline,14225 Rose Ferry,Fort Worth,VI,38416,rmay@example.org,+1 492-495-5963,18 orders
+61,Scott Gonzales,560 Poole Drives Suite 972,Fort Worth,OH,01527,aenglish@example.com,+1 976-808-5851,20 orders
+62,Cameron Harris,630 Sarah Park Suite 593,Chicago,KS,98303,anthony37@example.org,+1 308-561-3086,9 orders
+63,Shannon Gilbert,341 Ramirez Highway,Columbus,GU,07302,smithkristen@example.net,+1 496-304-2720,3 orders
+64,Christopher Lambert,647 Russo Roads,Fort Worth,WA,91758,steven12@example.org,+1 373-597-8016,19 orders
+65,Brian Scott,9385 Perez River,Columbus,RI,67098,hamiltonmichael@example.net,+1 563-312-4842,16 orders
+66,Ricky Nguyen,713 Lopez Rapids,Charlotte,NE,36313,franklarry@example.net,+1 474-711-2697,13 orders
+67,Timothy Bonilla,32653 Scott Junctions,Columbus,ME,87748,parkerashley@example.org,+1 873-348-7252,5 orders
+68,Ralph Cameron,02305 Smith Flat Apt. 770,Houston,DC,60629,calebjones@example.com,+1 794-954-3006,14 orders
+69,Calvin Lopez,20170 Pamela Drives,Los Angeles,MI,53795,prestonbrett@example.net,+1 538-815-3830,11 orders
+70,Dylan Sandoval,3396 Ross Isle Suite 134,Columbus,PA,13882,clarkheidi@example.org,+1 979-907-8372,20 orders
+71,Shane Taylor,2514 Steven Greens,Dallas,OH,44346,thomasyang@example.com,+1 492-577-8691,15 orders
+72,Kyle Snow,344 Baker Ramp,Jacksonville,NM,80409,natalie68@example.com,+1 995-522-6573,16 orders
+73,Michelle Kim,48635 David Rapid Suite 767,Columbus,NH,76015,wroberts@example.com,+1 357-749-6298,8 orders
+74,Christian Powell,5532 Robert Lane,Columbus,WY,33705,mary53@example.net,+1 645-668-9060,5 orders
+75,Jodi Blake,141 Lorraine Coves Apt. 950,San Diego,NJ,86180,stewartmichael@example.org,+1 269-842-1831,18 orders
+76,Gregory Lawson,45929 Roberts Valley,Houston,MI,70803,ffuentes@example.net,+1 396-213-9119,14 orders
+77,Wendy Smith,2642 Lucas Wells Apt. 457,Philadelphia,WI,22758,curtischristopher@example.com,+1 960-809-2224,3 orders
+78,Michelle Paul,222 Torres Shore Suite 931,Phoenix,ME,71968,grobles@example.net,+1 500-315-7089,4 orders
+79,Jordan Daniel,365 Larry Orchard Suite 202,San Antonio,ME,44362,raymond12@example.com,+1 321-407-5660,8 orders
+80,Jessica Bond,824 Larson Vista Suite 558,Jacksonville,SC,49645,amandagreen@example.org,+1 762-376-5504,6 orders
+81,Vincent Rose,74737 Steven Station,Austin,IL,59092,brandonhaas@example.org,+1 961-340-2191,11 orders
+82,Vernon Garcia,354 Patricia Points Apt. 377,San Jose,MI,25387,maydarlene@example.net,+1 633-662-6888,19 orders
+83,Gregory Harrington,422 Morse Court,Los Angeles,LA,41115,jessica95@example.com,+1 369-347-1308,15 orders
+84,Bobby Clark,07910 Debbie Wall,Phoenix,FM,05975,davischeryl@example.com,+1 550-589-1240,8 orders
+85,Stacey Johnson,1096 Stephens Cove,San Jose,MN,46247,ymedina@example.com,+1 454-790-3527,11 orders
+86,Jason Ramirez,021 Peter Coves Apt. 918,Charlotte,UT,76399,walshdennis@example.org,+1 232-645-2191,14 orders
+87,Daniel Chan,66218 Roberto Tunnel,Houston,FM,64562,omoore@example.org,+1 706-425-7424,3 orders
+88,Tanya Reid,63148 Stephen Walk,Phoenix,CA,15285,hjohnson@example.org,+1 751-862-6604,18 orders
+89,Christopher Graham,22875 Harper Lodge,Fort Worth,KY,40735,mtrujillo@example.net,+1 352-325-3349,19 orders
+90,Ellen Pena,9417 Moore Plains Apt. 925,Jacksonville,SC,96422,matthew36@example.org,+1 475-828-7896,12 orders
+91,Michele Burke,0138 Amber Field Apt. 804,Fort Worth,MP,76331,danielleandrade@example.com,+1 295-913-6187,7 orders
+92,Jordan Meza,29369 Victoria Crescent,Philadelphia,SC,24936,yolson@example.net,+1 914-326-9303,6 orders
+93,Zachary Johnson,843 Karen Walk Apt. 300,Charlotte,LA,03072,jameswilliams@example.org,+1 552-451-2447,4 orders
+94,Jeremy Sullivan,07297 Thomas Ways,Los Angeles,OK,04892,xmitchell@example.net,+1 404-295-8418,2 orders
+95,Leslie Gonzalez,695 Norman Ridges,Fort Worth,NH,53367,stanleyrichard@example.net,+1 613-251-4421,12 orders
+96,Brandi Stone,2148 Jimenez Flat Apt. 580,San Antonio,ID,17881,michaelnguyen@example.com,+1 889-887-9469,16 orders
+97,David Stewart,3060 Christian Heights,Charlotte,WI,68107,jennifer76@example.net,+1 582-514-5492,15 orders
+98,James Murphy,5227 Christopher Knolls Suite 498,Dallas,OH,98119,daniel15@example.com,+1 719-213-7430,11 orders
+99,Chelsea Kim,01138 Henry Neck Apt. 855,Fort Worth,FL,41135,uking@example.org,+1 945-678-9403,17 orders
+100,Angela Mcguire,42732 Scott Field,New York,NE,20582,rmason@example.net,+1 514-816-5624,15 orders
